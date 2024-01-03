@@ -4,7 +4,7 @@
 
 git clone https://github.com/prouppernew/JS_LEARNING.git
 
-[ 2 ] click on main then Create new Branch
+[ 2 ] click on main then Create new Branch With Name
 
 [ 3 ] make changes in code in index.js file 
 
