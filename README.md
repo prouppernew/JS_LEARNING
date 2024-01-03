@@ -1,7 +1,8 @@
 # JS_LEARNING
 
-<!-- [ 1 ] git clone repo_link space -->
-    git clone https://github.com/prouppernew/JS_LEARNING.git
+### [ 1 ] git clone repo_link space
+
+git clone https://github.com/prouppernew/JS_LEARNING.git
 
 [ 2 ] click on main then Create new Branch
 
