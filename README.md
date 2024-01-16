@@ -1,6 +1,6 @@
 # JS_LEARNING
 
-### [ 1 ] git clone repo_link space
+### [ 1 ] git clone repo_link Enter
 
 git clone https://github.com/prouppernew/JS_LEARNING.git
 
